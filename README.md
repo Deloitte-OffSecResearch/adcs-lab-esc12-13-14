@@ -19,7 +19,7 @@ Le lab que j'utilise est composé d'un contrôleur de domaine Windows Server 202
 ## ESC12
 
 Il existe un [guide d'utilisateur](https://docs.yubico.com/hardware/yubihsm-2/hsm-2-user-guide/hsm2-adcs-deploy.html) mis à disposition par Yubi afin de configurer une PKI s'appuyant sur la YubiHSMv2.
-Ce guide est relativement détaillé et fournis toutes les informations qui nous seront nécessaires afin de déployer notre lab. Une version résumée et imagée des actions à réaliser est toutefois disponible ci-dessous.
+Ce guide est relativement détaillé et fournit toutes les informations qui nous seront nécessaires afin de déployer notre lab. Une version résumée et imagée des actions à réaliser est toutefois disponible ci-dessous.
 
 
 La première étape consiste à connecter la YubiHSMv2 à notre contrôleur de domaine.  
